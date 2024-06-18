@@ -1,4 +1,4 @@
-package basic.chap01;
+package mycode.basic.chap01;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-import basic.chap01.Max3;
-import basic.chap01.Max4;
-import basic.chap01.Min4;
+import mycode.basic.chap01.Max3;
+import mycode.basic.chap01.Max4;
+import mycode.basic.chap01.Min4;
 
 class Main{
     public static void main(String[] args){
